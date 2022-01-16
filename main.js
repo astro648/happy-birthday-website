@@ -18,5 +18,5 @@ function new_image()
 
 function playSound(){
     console.log("bday audio play")
-    x.play("bdayaudio.mp3");
+    x.play();
 }
